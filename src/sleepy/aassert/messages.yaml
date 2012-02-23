@@ -1,0 +1,2 @@
+exc.format:
+  "EXPECTED: %(expected)s    ACTUALLY: %(actual)s"
